@@ -12,5 +12,5 @@ printf("OR_opr value=%d\n",OR_opr);
 printf("NOT_opr value=%d\n",NOT_opr);
 printf("XOR_opr value=%d\n",XOR_opr);
 printf("left_shift value=%d\n",m<<1);
-printf("right_shift value=%d\n",m>>1);
+printf("right_shift value=%d\n",m>>1); 
 }
