@@ -10,5 +10,5 @@ printf("Storage size for int data type:%d\n",sizeof(a));
 printf("storage size for char data type:%d\n",sizeof(b));
 printf("Storage size of float data type:%d\n",sizeof(c)); 
 printf("Storage size for double data type:%d\n",sizeof(d));
-return 0; 
+return 0;
 }
